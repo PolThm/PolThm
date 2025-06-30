@@ -16,4 +16,4 @@ A determined communicator, with a passion for solving complex challenges in an a
 
 LinkedIn: https://www.linkedin.com/in/pol-thomas/
 
-My website: https://pol-thomas.com/
+My website: [https://polthm.github.io/portfolio/](https://polthm.github.io/portfolio/)
