@@ -1,10 +1,15 @@
-# Hello, I’m a French developer specialized in Front-End with TypeScript, expanding my skills to become Full-Stack
+# Hello, I’m a French Full-Stack Developer with a strong Front-End focus
 
-As a Typescript specialist in Vue.js, React.js, and React Native, I am a fervent advocate of Clean Code and place great importance on its quality and maintainability (unit tests, documentation, architecture, etc).
+As an experienced Full-Stack developer with a Front-End specialization, I work extensively with TypeScript across React.js, React Native and Vue.js. I’m a strong advocate of Clean Code and place great importance on quality and maintainability (unit testing, documentation, architecture, etc.).
 
-With the ambition to become a competent Full-Stack developer, I am currently developing my skills in Node.js to complement my Front-End expertise and get more involved in server-side development.
+With strong back-end fundamentals, I keep expanding these skills to complement my Front-End expertise and ensure the delivery of reliable, cohesive end-to-end solutions.
 
-A determined communicator, with a passion for solving complex challenges in an agile team or independently, I am always looking for new opportunities to develop and share my knowledge in the field of development.
+A determined communicator with a passion for solving complex challenges—whether in an agile team or independently—I’m always seeking new opportunities to learn, grow, and share knowledge within the development community.
+
+
+### 💃 My most advanced personal project
+
+[Bailapp](https://github.com/PolThm/bailapp) – A modern PWA application for creating choreographies, learning new moves, and tracking your dance progress.
 
 
 ### 🥇 My Supabase Hackathon winning project
