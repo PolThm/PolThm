@@ -1,4 +1,4 @@
-# Hello, I’m a French Full-Stack Developer with a strong Front-End focus
+# Hello, I’m a French Developer with a strong Front-End focus
 
 As an experienced Full-Stack developer with a Front-End specialization, I work extensively with TypeScript across React.js, React Native and Vue.js. I’m a strong advocate of Clean Code and place great importance on quality and maintainability (unit testing, documentation, architecture, etc.).
 
